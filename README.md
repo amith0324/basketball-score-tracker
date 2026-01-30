@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # basketball_score_tracker
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# basketball-score-tracker
+Basketball scoreboard app built using Flutter
+>>>>>>> 7d8fa8e544e09c845678048916da7778f3bbf6b0
