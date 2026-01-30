@@ -1,21 +1,29 @@
-<<<<<<< HEAD
-# basketball_score_tracker
+# Basketball Score Tracker 🏀
 
-A new Flutter project.
+A Flutter-based basketball scoreboard application with real match features.
 
-## Getting Started
+## ✨ Features
+- Live score tracking for Team A and Team B
+- +1 / +2 / +3 point buttons
+- Match timer with start & pause
+- Quarter system (Q1–Q4)
+- Foul counter for both teams
+- Quarter-wise score breakdown
+- Sound feedback on scoring
+- Leader indicator & winner detection
+- Clean navy & white UI
 
-This project is a starting point for a Flutter application.
+## 🛠 Built With
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Platforms
+- Web
+- Android
+- iOS
+- macOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# basketball-score-tracker
-Basketball scoreboard app built using Flutter
->>>>>>> 7d8fa8e544e09c845678048916da7778f3bbf6b0
+## 🚀 Getting Started
+```bash
+flutter pub get
+flutter run
